@@ -1,0 +1,6 @@
+D:\software\C#\First_app_1_1\First_app_1_1\bin\Debug\First_app_1_1.exe.config
+D:\software\C#\First_app_1_1\First_app_1_1\bin\Debug\First_app_1_1.exe
+D:\software\C#\First_app_1_1\First_app_1_1\bin\Debug\First_app_1_1.pdb
+D:\software\C#\First_app_1_1\First_app_1_1\obj\Debug\First_app_1_1.csprojResolveAssemblyReference.cache
+D:\software\C#\First_app_1_1\First_app_1_1\obj\Debug\First_app_1_1.exe
+D:\software\C#\First_app_1_1\First_app_1_1\obj\Debug\First_app_1_1.pdb
